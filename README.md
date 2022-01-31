@@ -5,7 +5,7 @@
 
 ## Usage 
 - Displays your current and previous operand
-- Can utilise +,-,*,/ operators
+- Can utilise + - * / operators
 - Can handle decimals 
 - DEL erases last digit input
 - Can swap operators mid operation
